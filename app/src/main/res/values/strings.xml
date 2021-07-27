@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_task_title">Enter Task Title</string>
+    <string name="example_task">Example Task</string>
+    <string name="enter_task_detail">Enter Task Detail</string>
+    <string name="example_task_detail">Example Task Detail</string>
+    <string name="priority">Priority</string>
+    <string name="status">Status</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="button_to_add_new_task">Button to add New Task</string>
+    <string name="sort_by_priority">Sort By Priority</string>
+    <string name="sort_by_title">Sort By Title</string>
+</resources>
